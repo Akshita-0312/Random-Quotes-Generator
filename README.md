@@ -39,7 +39,7 @@ A simple and elegant React app that generates random inspirational quotes with t
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/random-quotes-generator.git
+git clone https://github.com/Akshita-0312/Random-Quotes-Generator.git
 cd random-quotes-generator
 npm install
 npm run dev
